@@ -1,12 +1,12 @@
-# What are we doing here? 
+## What are we doing here? 
 
 We are trying to federate hospitality exchange platforms into one big community.
 
-# Contents
+## Contents
 
 {:toc}
 
-# Who is doing this? 
+## Who is doing this? 
 
 In the project are involved contributors to the platforms:
 - [Trustroots.org](https://Trustroots.org), 
@@ -18,7 +18,7 @@ In the project are involved contributors to the platforms:
 - [CouchSurfing.org](https://CouchSurfing.org) (before it locked it’s community behind paywall)
 
 
-# Why?
+## Why?
 
 * We aim to solve the issue of centralized boards ending up with too much power and locking it's own communities in a platform the members can not influance or move away from without loosing history (reputation and trust are very important for hospitality exchange), and access to accumulated over years hosts base.
 * We hope to grow network of (active!) hosts reachable from any platform…
@@ -29,7 +29,7 @@ In the project are involved contributors to the platforms:
 * We hope to reduce the burden on developers maintaining the platforms to keep up-to-date in ever changing technology landscape
 
 
-# What exactly would change?
+## What exactly would change?
 
 1. *from* a few **platforms** without clear identity, competing with each other for users
    *to* the **bigger diversity of platforms with their own specific identity developed. Shared access to wide base of hosts** would relieve the burden on platforms to fulfill all needs and they would not fear of missing out since other needs would be covered by other platforms. One could then imagine platforms in other languages than English or dedicated to certain life choices (think of ecology or veganism) or other preferences (like women only)
@@ -67,7 +67,7 @@ In the project are involved contributors to the platforms:
    
    - the request includes everything needed to determine for who it is relevant: (a) expected location and radius (b) current location, direction and speed (c) …
 
-# Where you can find us?
+## Where you can find us?
 
 Come to say *hi!*, ask questions and share ideas, or help us with the project.
 

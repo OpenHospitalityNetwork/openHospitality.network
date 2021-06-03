@@ -2,26 +2,30 @@ What are we doing here?
 ---
 We are trying to federate hospitality exchange platforms into one big community.
 
+Contents
+---
+{:toc}
+
 Who is doing this? 
 ---
 In the project are involved contributors to the platforms:
-- [Trustroots](Trustroots.org), 
-- [Welcome to my Garden](WelcomeToMyGarden.org), 
-- [BeWelcome](BeWelcome.org), 
-- [Couchers](Couchers.org), 
-- [Cycle Planet](CyclePlanet.org)
-- original WarmShowers.org Android app (not the new payed app or backend any more)
-- CouchSurfing.org (before it locked it’s community behind paywall)
+- [Trustroots.org](https://Trustroots.org), 
+- [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org), 
+- [BeWelcome.org](https://BeWelcome.org), 
+- [Couchers.org](https://Couchers.org), 
+- [CyclePlanet.org](https://CyclePlanet.org)
+- [WarmShowers.org](https://WarmShowers.org) original [Android app](https://github.com/warmshowers/wsandroid) (not the new payed app or backend any more)
+- [CouchSurfing.org](https://CouchSurfing.org) (before it locked it’s community behind paywall)
 
 Why?
 ---
-* We aim to solve the issue of centralized boards ending up with too much power and locking it's own communities in a platform the members can not move away from without loosing history - reputation and trust are very important for hospitality exchange, and access to accumulated over years hosts bases.
+* We aim to solve the issue of centralized boards ending up with too much power and locking it's own communities in a platform the members can not influance or move away from without loosing history (reputation and trust are very important for hospitality exchange), and access to accumulated over years hosts base.
 * We hope to grow network of (active!) hosts reachable from any platform…
 * … and flexibility to choose who, when and where we’d like to host
 * We hope to increase diversity of platforms so that everyone can choose what fits them best
 * We hope to increase security and be more inclusive and welcome new members from underrepresented groups
 * We hope to take off from existing platforms a burden of trying to fulfill needs of all without having a clear identity
-* We hope to reduce burden on developers maintaining the platforms in ever changing technology landscape
+* We hope to reduce the burden on developers maintaining the platforms to keep up-to-date in ever changing technology landscape
 
 
 What exactly would change?

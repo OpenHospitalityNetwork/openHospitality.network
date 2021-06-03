@@ -2,9 +2,6 @@
 
 We are trying to federate hospitality exchange platforms into one big community.
 
-## Contents
-
-{:toc}
 
 ## Who is doing this? 
 
@@ -59,29 +56,30 @@ In the project are involved contributors to the platforms:
 1. *from* platforms keeping hosts forever despite them being inactive and unresponsive
    *to* **only committed hosts participating in the network on their own rules and preferences.**
 
-1. *from* users exchanging direct messages 
-   *to* **indirect hosting request**
+1. *from* **users** exchanging direct messages 
+   *to* **indirect hosting requests**
 
    > I travel and publish: Who can host me? \
    > Everyone in the network can see it and someone answers: come over to my home, we’ll be waiting this evening for you.
    
    - the request includes everything needed to determine for who it is relevant: (a) expected location and radius (b) current location, direction and speed (c) …
 
+
 ## Where you can find us?
 
 Come to say *hi!*, ask questions and share ideas, or help us with the project.
 
-* Instant messaging (coordination):
-  - telegram: https://t.me/joinchat/bSRAq8EqivM4ZmZi
-  - matrix: https://matrix.to/#/#hospex:matrix.org
-Both rooms are mirrored
+* Instant messaging for coordination:
+  - [telegram](https://t.me/joinchat/bSRAq8EqivM4ZmZi)
+  - [matrix](https://matrix.to/#/#hospex:matrix.org)
+  
+   Both rooms are mirrored
 
 * Forum to discuss, share ideas:
-  - SocialHub: https://socialhub.activitypub.rocks/c/software/14
-  - GitHub discussion: https://github.com/FediHospEx/federated-trustroots/discussions
-
-* Repo with sourcecode:
-  - https://github.com/FediHospEx
-
-* Lemmy to brainstorm ideas for federated hospex:
+  - [SocialHub](https://socialhub.activitypub.rocks/c/software/14)
+  - [GitHub discussion](https://github.com/FediHospEx/federated-trustroots/discussions)
   - [Lemmy by HumanTech](https://lemmy.ml/post/66076)
+
+* Source code to make it happen:
+  - [GitHub repo](https://github.com/FediHospEx)
+  - [Roadmap](https://github.com/orgs/FediHospEx/projects/1)

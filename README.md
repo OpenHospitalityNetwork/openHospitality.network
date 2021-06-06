@@ -2,7 +2,7 @@
 
 We are trying to reclaim hospitality from exchange platforms back to human interactions.
 
-We’d like to take community-first approach, followed by technology. But it’s also very infrastructure heavy piece, so technically, we’re trying to federate different already existing hospitality exchange platforms to make it easy for new ones to emerge and evolve to keep serving communities' needs - not the other way around. We'd like new communities to freely form, grow and re-form and for that we need new generation of software, flexible enough to be able to follow them.
+We’d like to take community-first approach, followed by technology. But it’s also very infrastructure heavy piece, so technically, we’re trying to federate different already existing hospitality exchange platforms to make it easy for new ones to emerge and evolve to keep serving their communities' needs - not the other way around. We'd like new communities to freely form, grow and re-form and for that we need new generation of software, flexible enough to be able to follow them.
 
 **hospitality platform**: a piece of software which connects travelers with those who want to host them. 
 

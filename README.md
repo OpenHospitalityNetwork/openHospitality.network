@@ -10,7 +10,7 @@ We envision platforms built around specific communities's characteristics, for b
 
 In other words, we are trying to federate existing hospitality exchange platforms into one big full-of-variery community.
 
-_Hospitality_ is an universal human fenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill it's goals if it was not open, free and transparent for everyone and forever. [Open Software](https://github.com/FediHospEx/fedihospex.github.io), [open finances](https://opencollective.com/), open governance (don't know yet how to do that, we'll try our best).
+_Hospitality_ is an universal human fenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill it's goals if it was not open, free and transparent for everyone and forever. [Open Software](https://github.com/FediHospEx/fedihospex.github.io), [open finances](https://opencollective.com/), open governance (don't know yet _exactly_ how to do that, we have some ideas/experiances and we promise to try our best).
 
 ## Who is doing this? 
 

@@ -12,13 +12,13 @@ In other words, we are trying to federate existing hospitality exchange platform
 
 _Hospitality_ is an universal human fenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill it's goals if it was not open, free and transparent for everyone and forever. [Open Software](https://github.com/FediHospEx/fedihospex.github.io), [open finances](https://opencollective.com/), open governance (don't know yet _exactly_ how to do that, we have some ideas/experiances and we promise to try our best).
 
-## Who is doing this? 
+## Who's involved in this? 
 
 In the project are involved contributors to the platforms:
+- [Open Alternative to WarmShowers.org](https://WarmShowers.bike)
 - [Trustroots.org](https://Trustroots.org)
 - [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org) 
 - [BeWelcome.org](https://BeWelcome.org)
-- [WarmShowers.org](https://WarmShowers.org) original [Android app](https://github.com/warmshowers/wsandroid) (not the new payed app or backend any more)
 - [CouchSurfing.org](https://CouchSurfing.org) (before it locked it’s community behind paywall)
 
 Potentially also:
@@ -26,7 +26,7 @@ Potentially also:
 - [CyclePlanet.org](https://CyclePlanet.org)
 
 
-## Why?
+## Why are we doing this?
 
 * We aim to solve the issue of centralized boards ending up with too much power and locking it's own communities in a platform the members can not influance or move away from without loosing history (reputation and trust are very important for hospitality exchange), and access to accumulated over years hosts base.
 * We hope to grow network of (active!) hosts reachable from any platform…

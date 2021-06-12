@@ -6,11 +6,11 @@ We’d like to take community-first approach, followed by technology. But it’s
 
 **hospitality platform**: a piece of software which connects travelers with those who want to host them. 
 
-We envision platforms built around specific communities's characteristics, for bicycle touring community, slow-travellers, in different than English languages, for women or lgbtq only, gathering together families or vegan families. While they are independant and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
+We envision platforms built around specific communities's characteristics, for bicycle touring community, slow-travellers, in different than English languages, for women or lgbtq only, gathering together families or vegan families. While they are independent and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
 
 In other words, we are trying to federate existing hospitality exchange platforms into one big full-of-variery community.
 
-_Hospitality_ is an universal human fenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill it's goals if it was not open, free and transparent for everyone and forever. [Open source software](https://github.com/FediHospEx/fedihospex.github.io), [open finances](https://opencollective.com/fedihospex), open governance (don't know yet _exactly_ how to do that, we have some ideas/experiances and we promise to try our best). [Come help us!](#where-you-can-find-us)
+_Hospitality_ is an universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill it's goals if it was not open, free and transparent for everyone and forever. [Open source software](https://github.com/FediHospEx/fedihospex.github.io), [open finances](https://opencollective.com/fedihospex), open governance (don't know yet _exactly_ how to do that, we have some ideas/experiances and we promise to try our best). [Come help us!](#where-you-can-find-us)
 
 ## Who's involved in this? 
 
@@ -28,11 +28,11 @@ Potentially also:
 
 ## Why are we doing this?
 
-* We aim to solve the issue of centralized boards ending up with too much power and locking it's own communities in a platform the members can not influance or move away from without loosing history (reputation and trust are very important for hospitality exchange), and access to accumulated over years hosts base.
+* We aim to solve the issue of centralized boards ending up with too much power and locking their own communities in a platform the members cannot influence or move away from without losing history (reputation and trust are very important for hospitality exchange), and access to accumulated over years hosts base.
 * We hope to grow network of (active!) hosts reachable from any platform…
 * … and flexibility to choose who, when and where we’d like to host
 * We hope to increase diversity of platforms so that everyone can choose what fits them best
-* We hope to increase security and be more inclusive and welcome new members from underrepresented groups
+* We hope to increase security and be more inclusive and welcome new members from under-represented groups
 * We hope to take off from existing platforms a burden of trying to fulfill needs of all without having a clear identity
 * We hope to reduce the burden on developers maintaining the platforms to keep up-to-date in ever changing technology landscape
 
@@ -87,9 +87,9 @@ Come to say *hi!*, ask questions and share ideas, or help us with the project.
    Both rooms are mirrored
 
 * Forum to discuss, share ideas:
-  - [SocialHub](https://socialhub.activitypub.rocks/c/software/14)
+  - [SocialHub](https://socialhub.activitypub.rocks/c/fediversity/fediverse-futures/58) (add 'hospitality' tag to your topic)
   - [GitHub discussion](https://github.com/FediHospEx/federated-trustroots/discussions)
-  - [Lemmy by HumanTech](https://lemmy.ml/post/66076)
+  - [Lemmy by HumaneTech](https://lemmy.ml/post/66076) (brainstorming space)
 
 * Source code to make it happen:
   - [GitHub repo](https://github.com/FediHospEx)

@@ -9,6 +9,7 @@ baseurl: /
 url: https://fedihospex.github.io
 #twitter_username: Your Twitter username (do not include @ symbol).
 github_username: FediHospEx
+google_analytics: UA-199347194-1
 
 markdown: kramdown
 kramdown:

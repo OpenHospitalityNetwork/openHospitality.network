@@ -93,4 +93,4 @@ Come to say *hi!*, ask questions and share ideas, or help us with the project.
 
 * Source code to make it happen:
   - [GitHub repo](https://github.com/FediHospEx)
-  - [Roadmap](https://github.com/orgs/FediHospEx/projects/1)
+  - [Roadmap](https://trello.com/b/snYAVXym)

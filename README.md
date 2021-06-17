@@ -75,6 +75,11 @@ Potentially also:
    
    - the request includes everything needed to determine for who it is relevant: (a) expected location and radius (b) current location, direction and speed (c) …
 
+## Exploring possibilities
+
+So there's work to do. In this section we link to documentation related to designing our future Hospitality Exchange platforms.
+
+* [Domain modeling](domain-modeling.md)
 
 ## Where you can find us?
 

@@ -91,11 +91,13 @@ Come to say *hi!*, ask questions and share ideas, or help us with the project.
   
    Both rooms are mirrored
 
+* [Weekly meeting aka office hours](https://trello.com/c/ZpKwjtXV)
+
+* [The board](https://trello.com/b/snYAVXym) with common picture on what's going on in the project
+
 * Forum to discuss, share ideas:
   - [SocialHub](https://socialhub.activitypub.rocks/c/fediversity/fediverse-futures/58) (add 'hospitality' tag to your topic)
   - [GitHub discussion](https://github.com/FediHospEx/federated-trustroots/discussions)
   - [Lemmy by HumaneTech](https://lemmy.ml/post/66076) (brainstorming space)
 
-* Source code to make it happen:
-  - [GitHub repo](https://github.com/FediHospEx)
-  - [Roadmap](https://trello.com/b/snYAVXym)
+* [Source code](https://github.com/FediHospEx) to contribute to the project

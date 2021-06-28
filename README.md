@@ -8,18 +8,18 @@ We’d like to take community-first approach, followed by technology. But it’s
 
 We envision platforms built around specific communities's characteristics, for bicycle touring community, slow-travellers, in different than English languages, for women or lgbtq only, gathering together families or vegan families. While they are independent and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
 
-In other words, we are trying to federate existing hospitality exchange platforms into one big full-of-variery community.
+In other words, we are trying to federate existing hospitality exchange platforms into one big full-of-variety community.
 
-_Hospitality_ is an universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill it's goals if it was not open, free and transparent for everyone and forever. [Open source software](https://github.com/FediHospEx/fedihospex.github.io), [open finances](https://opencollective.com/fedihospex), open governance (don't know yet _exactly_ how to do that, we have some ideas/experiances and we promise to try our best). [Come help us!](#where-you-can-find-us)
+_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill its goals if it was not open, free and transparent for everyone and forever. [Open source software](https://github.com/FediHospEx/fedihospex.github.io), [open finances](https://opencollective.com/fedihospex), open governance (don't know yet _exactly_ how to do that, we have some ideas/experiences, and we promise to try our best). [Come help us!](#where-you-can-find-us)
 
 ## Who's involved in this? 
 
 In the project are involved contributors to the platforms:
-- [Open Alternative to WarmShowers.org](https://WarmShowers.bike)
+- [Open Alternative to WarmShowers.org](https://WarmShowers.bike) (the original WS Android app contributors)
 - [Trustroots.org](https://Trustroots.org)
 - [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org) 
 - [BeWelcome.org](https://BeWelcome.org)
-- [CouchSurfing.org](https://CouchSurfing.org) (before it locked it’s community behind paywall)
+- [CouchSurfing.org](https://CouchSurfing.org) (before it locked its community behind paywall)
 
 Potentially also:
 - [Couchers.org](https://Couchers.org)
@@ -32,15 +32,15 @@ Potentially also:
 * We hope to grow network of (active!) hosts reachable from any platform…
 * … and flexibility to choose who, when and where we’d like to host
 * We hope to increase diversity of platforms so that everyone can choose what fits them best
-* We hope to increase security and be more inclusive and welcome new members from under-represented groups
+* We hope to increase security and be more inclusive, and welcome new members from under-represented groups
 * We hope to take off from existing platforms a burden of trying to fulfill needs of all without having a clear identity
-* We hope to reduce the burden on developers maintaining the platforms to keep up-to-date in ever changing technology landscape
+* We hope to reduce the burden on developers maintaining the platforms to keep up-to-date in ever-changing technology landscape
 
 
 ## What exactly would change?
 
 1. *from* a few **platforms** without clear identity, competing with each other for users
-   *to* the **bigger diversity of platforms with their own specific identity developed. Shared access to wide base of hosts** would relieve the burden on platforms to fulfill all needs and they would not fear of missing out since other needs would be covered by other platforms. One could then imagine platforms in other languages than English or dedicated to certain life choices (think of ecology or veganism)
+   *to* the **bigger diversity of platforms with their own specific identity developed. Shared access to wide base of hosts** would relieve the burden on platforms to fulfill all needs, and they would not fear of missing out since other needs would be covered by other platforms. One could then imagine platforms in other languages than English or dedicated to certain life choices (think of ecology or veganism)
    - easy deployment of new instance
    - self-hosting and managed-hosting options for communities
 

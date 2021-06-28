@@ -6,7 +6,7 @@ We’d like to take community-first approach, followed by technology. But it’s
 
 **hospitality platform**: a piece of software which connects travelers with those who want to host them. 
 
-We envision platforms built around specific communities's characteristics, for bicycle touring community, slow-travellers, in different than English languages, for women or lgbtq only, gathering together families or vegan families. While they are independent and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
+We envision a variety of platforms exist, built around specific communities' characteristics: for the bicycle touring community or for slow-travellers, in English and non-English languages, for women or lgbtq people only, gathering together families or even vegan families only, if they chose to enclose themselves in a community of their own. Some organized around democratic values and others with a strong leadership model. While all the platforms are independent and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
 
 In other words, we are trying to federate existing hospitality exchange platforms into one big full-of-variety community.
 
@@ -28,7 +28,9 @@ Potentially also:
 
 ## Why are we doing this?
 
-* We aim to solve the issue of centralized boards ending up with too much power and locking their own communities in a platform the members cannot influence or move away from without losing history (reputation and trust are very important for hospitality exchange), and access to accumulated over years hosts base.
+* We aim to solve the issue of centralized boards ending up with too much power and locking their own communities in a platform the members cannot influence or move away from without:
+  * excluding themselves from the community - right now, although a single user can relatively easily move from one platform to another, they can not do it [travelers] without losing access to the hosts on that platform and [hosts] while remaining discoverable for travelers who haven't moved (yet) - so **the community, as a whole, is trapped**,
+  * losing history - 1. trust, often built on _reputation_ is very important for hospitality exchange. 2. connections and memories are so precious to many of us!
 * We hope to grow network of (active!) hosts reachable from any platform…
 * … and flexibility to choose who, when and where we’d like to host
 * We hope to increase diversity of platforms so that everyone can choose what fits them best

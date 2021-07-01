@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Overwrites: https://github.com/pages-themes/minimal/blob/master/_sass/jekyll-theme-minimal.scss
+a:hover, a:focus {
+  color:#069;
+  font-weight: normal;
+  text-decoration: underline;;
+}
+
+h1 a:hover, a:focus {
+  font-weight: bold;
+}

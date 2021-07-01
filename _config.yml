@@ -5,7 +5,7 @@ theme: jekyll-theme-minimal
 title: Federated Hospitality Exchange
 email: hospexsummit@gmail.com
 description: We try to federate different hospitality exchange platforms to unify the community while enabling greater diversity and long term sustainability of all together.
-baseurl: /
+baseurl: ''
 url: https://fedihospex.github.io
 #twitter_username: Your Twitter username (do not include @ symbol).
 github_username: FediHospEx

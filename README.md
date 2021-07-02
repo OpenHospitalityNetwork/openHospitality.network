@@ -41,6 +41,11 @@ Potentially also:
 
 ## What exactly would change?
 
+1. *from* **communities** locked in silos platforms with self-selected boards not representing communities values any more
+   *to* **freedom to be on a platform of their choice, with variety of platforms existing, variety of governance, variety of communities to be part of while being part of wider network with many hosts available**
+    - easy account migration between instances (nomadic identity)
+    - discoverability of accounts (ex. usernames with platform prefixes)
+    
 1. *from* a few **platforms** without clear identity, competing with each other for users
    *to* the **bigger diversity of platforms with their own specific identity developed. Shared access to wide base of hosts** would relieve the burden on platforms to fulfill all needs, and they would not fear of missing out since other needs would be covered by other platforms. One could then imagine platforms in other languages than English or dedicated to certain life choices (think of ecology or veganism)
    - easy deployment of new instance
@@ -54,11 +59,6 @@ Potentially also:
    - visibility of users across platforms (protocol what to include: location in 5km radius, username, …)
    - communication across platforms (aka matrix, ActivityPub)
    - a map with hosts from other federated communities
-
-1. *from* **communities** locked in silos platforms with self-selected boards not representing communities values any more 
-   *to* **freedom to be on a platform of their choice, with variety of platforms existing, variety of governance, variety of communities to be part of while being part of wider network with many hosts available**
-   - easy account migration between instances (nomadic identity)
-   - discoverability of accounts (ex. usernames with platform prefixes)
 
 1. *from* **users** from underrepresented groups (non-english speakers, women, lgbtq, …) hesitating to participate because of fear of unsafe interactions
    *to* **the community, where everyone feels welcome, can find their place and group where they belong to, feel safe and can fully express themselves. Full diversity of members from all sort of backgrounds and groups equally represented in the community.**

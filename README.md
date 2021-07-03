@@ -1,6 +1,6 @@
 # Federated Hospitality Exchange
 
-We are trying to reclaim hospitality from exchange platforms back to human interactions.
+We aim to free communities from bad governance and reclaim hospitality from exchange platforms back to human interactions.
 
 We’d like to take community-first approach, followed by technology. But it’s also very infrastructure heavy piece, so technically, we’re trying to federate different already existing hospitality exchange platforms to make it easy for new ones to emerge and evolve to keep serving their communities' needs - not the other way around. We'd like new communities to freely form, grow and re-form and for that we need new generation of software, flexible enough to be able to follow them.
 
@@ -17,7 +17,7 @@ Come, [help us!](#help-wanted)
 ## Who's involved in this? 
 
 In the project are involved contributors to the platforms:
-- [Open Alternative to WarmShowers.org](https://WarmShowers.bike) (the original WS Android app contributors)
+- [Open Alternative to WarmShowers.org](https://WarmShowers.bike)  - contributors to the community-built WarmShowers Android app, first released in 2012, before any WS board existed (2015), with which the community has grown (50+K installs in [Google Play Store](https://play.google.com/store/apps/details?hl=en&id=fi.bitrite.android.ws)), and whose access was cut off after WS board closed backend code (ca. 2017) and released a new paid app (2020), effectively excluding from the community members who access the platform from mobile devices only and for whom the fee for the new app is unaffordable (i.a. hosts from less developed countries, long-distance bike tourers). The devs and other community members made previously [many attempts](https://gitlab.com/-/snippets/2111860) to inform the board about the situation.
 - [Trustroots.org](https://Trustroots.org)
 - [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org) 
 - [BeWelcome.org](https://BeWelcome.org)
@@ -89,9 +89,11 @@ So there's work to do. In this section we link to documentation related to desig
 
 Here you can read some more background, find other resources and places where we discuss, share ideas and connect with the world outside our core team:
 
-* Our history is yet to be written down, but [here's a message](https://warmshowers.bike) that we, former WarmShowers Android app developers, display to the users of our app (currently 20K devices), accompanied by short WS backstory
+* Our story is yet to be written down, but [here's a message](https://warmshowers.bike) that we, former WarmShowers Android app developers, display to the users of our community-built app, accompanied by short WS backstory
+
+* [WarmsShowers Uncensored](https://gitlab.com/-/snippets/2111860) tracks censorious actions taken by Warmshowers, as well as other WS related resources.
   
-* There is also a survey for WarmShowers users with [our pitch](https://warmshowers.bike/survey)
+* There is also a survey for WarmShowers users with [our values and pitch](https://warmshowers.bike/survey) for a new platform for bicycle touring community.
   
 * BeVolunteer, an organization behind BeWelcome gives interesting [historical context](https://www.bevolunteer.org/about-bevolunteer/history/) of how hospex landscape was (r)evolving [[a backup copy](http://web.archive.org/web/20190809110251/https://www.bevolunteer.org/about-bevolunteer/history/)]
 

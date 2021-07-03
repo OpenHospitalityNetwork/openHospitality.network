@@ -10,7 +10,9 @@ We envision a variety of platforms exist, built around specific communities' cha
 
 In other words, we are trying to federate existing hospitality exchange platforms into one big full-of-variety community.
 
-_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill its goals if it was not open, free and transparent for everyone and forever. [Open source software](https://github.com/FediHospEx/fedihospex.github.io), [open finances](https://opencollective.com/fedihospex), open governance (don't know yet _exactly_ how to do that, we have some ideas/experiences, and we promise to try our best). [Come help us!](#where-you-can-find-us)
+_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill its goals if it was not open, free and transparent for everyone and forever. This means for us open governance, [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex). 
+
+Come, [help us!](#help-wanted)
 
 ## Who's involved in this? 
 
@@ -83,23 +85,23 @@ So there's work to do. In this section we link to documentation related to desig
 
 * [Domain modeling](domain-modeling.md)
 
-## Where you can find us?
+## Other resources
 
-Come to say *hi!*, ask questions and share ideas, or help us with the project.
+Here you can read some more background, find other resources and places where we discuss, share ideas and connect with the world outside our core team:
 
-* Instant messaging for coordination:
-  - [telegram](https://t.me/joinchat/bSRAq8EqivM4ZmZi)
-  - [matrix](https://matrix.to/#/#hospex:matrix.org)
+* Our history is yet to be written down, but [here's a message](https://warmshowers.bike) that we, former WarmShowers Android app developers, display to the users of our app (currently 20K devices), accompanied by short WS backstory
   
-   Both rooms are mirrored
+* There is also a survey for WarmShowers users with [our pitch](https://warmshowers.bike/survey)
+  
+* BeVolunteer, an organization behind BeWelcome gives interesting [historical context](https://www.bevolunteer.org/about-bevolunteer/history/) of how hospex landscape was (r)evolving [[a backup copy](http://web.archive.org/web/20190809110251/https://www.bevolunteer.org/about-bevolunteer/history/)]
 
-* [Weekly meeting aka office hours](https://trello.com/c/ZpKwjtXV)
+* [Github issue](https://github.com/FediHospEx/fedihospex.github.io/discussions/9) describing why we want to federate
+  
+#### Other places
+* [SocialHub](https://socialhub.activitypub.rocks/c/fediversity/fediverse-futures/58) #hospitality tag, where we discuss federation using ActivityPub, 
+  
+* [Lemmy by HumaneTech](https://lemmy.ml/post/66076) brainstorming ideas, lemmy is like reddit but decentralized
 
-* [The board](https://trello.com/b/snYAVXym) with common picture on what's going on in the project
+* [Open Alternative to WarmShowers](https://www.facebook.com/groups/243374777243989) Facebook group
 
-* Forum to discuss, share ideas:
-  - [SocialHub](https://socialhub.activitypub.rocks/c/fediversity/fediverse-futures/58) (add 'hospitality' tag to your topic)
-  - [GitHub discussion](https://github.com/FediHospEx/federated-trustroots/discussions)
-  - [Lemmy by HumaneTech](https://lemmy.ml/post/66076) (brainstorming space)
-
-* [Source code](https://github.com/FediHospEx) to contribute to the project
+## Help wanted!

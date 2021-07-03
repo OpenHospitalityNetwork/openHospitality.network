@@ -1,14 +1,14 @@
 # Federated Hospitality Exchange
 
-We aim to free communities from bad governance and reclaim hospitality from exchange platforms back to human interactions.
+_We aim to free communities from bad governance and reclaim hospitality from exchange platforms back to human interactions._
 
 We’d like to take community-first approach, followed by technology. But it’s also very infrastructure heavy piece, so technically, we’re trying to federate different already existing hospitality exchange platforms to make it easy for new ones to emerge and evolve to keep serving their communities' needs - not the other way around. We'd like new communities to freely form, grow and re-form and for that we need new generation of software, flexible enough to be able to follow them.
 
-**hospitality platform**: a piece of software which connects travelers with those who want to host them. 
+**hospitality \[exchange\] platform**: a piece of software which connects travelers with those who want to host them. 
 
 We envision a variety of platforms exist, built around specific communities' characteristics: for the bicycle touring community or for slow-travellers, in English and non-English languages, for women or lgbtq people only, gathering together families or even vegan families only, if they chose to enclose themselves in a community of their own. Some organized around democratic values and others with a strong leadership model. While all the platforms are independent and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
 
-In other words, we are trying to federate existing hospitality exchange platforms into one big full-of-variety community.
+In other words, we want to unify hospitality exchange communities into one big full-of-variety and everlasting community.
 
 _Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill its goals if it was not open, free and transparent for everyone and forever. This means for us open governance, [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex). 
 
@@ -99,7 +99,7 @@ Here you can read some more background, find other resources and places where we
 
 * [Github issue](https://github.com/FediHospEx/fedihospex.github.io/discussions/9) describing why we want to federate in the first place
   
-#### Other places
+#### Other useful places
 * [SocialHub](https://socialhub.activitypub.rocks/c/fediversity/fediverse-futures/58) #hospitality tag, where we discuss federation using [ActivityPub](https://activitypub.rocks/), W3C standard protocol for decentralized social networks
   
 * [Lemmy by HumaneTech](https://lemmy.ml/post/66076) brainstorming ideas, lemmy is like reddit but decentralized

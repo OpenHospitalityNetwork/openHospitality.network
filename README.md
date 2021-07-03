@@ -21,7 +21,7 @@ In the project are involved contributors to the platforms:
 - [Trustroots.org](https://Trustroots.org)
 - [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org) 
 - [BeWelcome.org](https://BeWelcome.org)
-- [CouchSurfing.org](https://CouchSurfing.org) (before it locked its community behind paywall)
+- [CouchSurfing.org](https://CouchSurfing.org) community members and builders, before it locked its community behind paywall
 
 Potentially also:
 - [Couchers.org](https://Couchers.org)
@@ -95,10 +95,10 @@ Here you can read some more background, find other resources and places where we
   
 * BeVolunteer, an organization behind BeWelcome gives interesting [historical context](https://www.bevolunteer.org/about-bevolunteer/history/) of how hospex landscape was (r)evolving [[a backup copy](http://web.archive.org/web/20190809110251/https://www.bevolunteer.org/about-bevolunteer/history/)]
 
-* [Github issue](https://github.com/FediHospEx/fedihospex.github.io/discussions/9) describing why we want to federate
+* [Github issue](https://github.com/FediHospEx/fedihospex.github.io/discussions/9) describing why we want to federate in the first place
   
 #### Other places
-* [SocialHub](https://socialhub.activitypub.rocks/c/fediversity/fediverse-futures/58) #hospitality tag, where we discuss federation using ActivityPub, 
+* [SocialHub](https://socialhub.activitypub.rocks/c/fediversity/fediverse-futures/58) #hospitality tag, where we discuss federation using [ActivityPub](https://activitypub.rocks/), W3C standard protocol for decentralized social networks
   
 * [Lemmy by HumaneTech](https://lemmy.ml/post/66076) brainstorming ideas, lemmy is like reddit but decentralized
 

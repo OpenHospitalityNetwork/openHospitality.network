@@ -14,3 +14,6 @@ google_analytics: UA-199347194-1
 markdown: kramdown
 kramdown:
   input: GFM
+
+plugins:
+    - jekyll-seo-tag

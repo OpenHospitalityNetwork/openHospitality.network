@@ -1,18 +1,28 @@
 # Federated Hospitality Exchange
 
-_Reclaiming reciprocal hospitality communities from boards and exchange platforms back to human interactions._
+_We want to reclaim reciprocal hospitality communities from boards and exchange platforms back to human interactions._
+
+_Saying it differently, we want to unify reciprocal hospitality communities into one big full-of-variety community, everlasting boards and exchange platforms._
+
+**hospitality \[exchange\] platform**: a piece of software which connects travelers with those who want to host them.
 
 We’d like to take community-first approach, followed by technology. But it’s also very infrastructure heavy piece, so technically, we’re trying to federate different already existing hospitality exchange platforms to make it easy for new ones to emerge and evolve to keep serving their communities' needs - not the other way around. We'd like new communities to freely form, grow and re-form and for that we need new generation of software, flexible enough to be able to follow them.
 
-**hospitality \[exchange\] platform**: a piece of software which connects travelers with those who want to host them. 
-
-We envision a variety of platforms exist, built around specific communities' characteristics: for the bicycle touring community or for slow-travellers, in English and non-English languages, for women or lgbtq people only, gathering together families or even vegan families only, if they chose to enclose themselves in a community of their own. Some organized around democratic values and others with a strong leadership model. While all the platforms are independent and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
-
-In other words, we want to unify hospitality exchange communities into one big full-of-variety and everlasting community.
-
-_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill its goals if it was not open and transparent for everyone and forever. This means for us [open governance](https://trello.com/c/VTpvnpv0), [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex). 
-
 Come, [help us!](#help-wanted)
+
+_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine an endeavor like this to fulfill its goals if it was not open and transparent for everyone and forever. This means for us [open governance](https://trello.com/c/VTpvnpv0), [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex).
+
+---
+
+## Table of Contents
+* [Who's involved in this?](#whos-involved-in-this)
+* [Why are we doing this?](#why-are-we-doing-this)
+* [What exactly would change?](#what-exactly-would-change)
+* [Help wanted!](#help-wanted)
+
+  
+* [Exploring possibilities](#exploring-possibilities)
+* [Other resources](#other-resources)
 
 ## Who's involved in this? 
 
@@ -43,18 +53,22 @@ Potentially also:
 
 ## What exactly would change?
 
+We envision a variety of platforms exist, built around specific communities' characteristics: for the bicycle touring community or for slow-travellers, in English and non-English languages, for women or lgbtq people only, gathering together families or even vegan families only, if they chose to enclose themselves in a community of their own. Some organized around democratic values and others with a strong leadership model. While all the platforms are independent and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
+
+Here is what we'd like to change:
+
 1. *from* **communities** locked in silos platforms with self-selected boards not representing communities values any more
-   *to* **freedom to be on a platform of their choice, with variety of platforms existing, variety of governance, variety of communities to be part of while being part of wider network with many hosts available**
+   *to* **freedom to be on a platform of their choice, with variety of platforms existing, variety of governance, variety of communities to be part of** all participating in wider network of hosts and travelers
     - easy account migration between instances (nomadic identity)
     - discoverability of accounts (ex. usernames with platform prefixes)
     
 1. *from* a few **platforms** without clear identity, competing with each other for users
-   *to* the **bigger diversity of platforms with their own specific identity developed. Shared access to wide base of hosts** would relieve the burden on platforms to fulfill all needs, and they would not fear of missing out since other needs would be covered by other platforms. One could then imagine platforms in other languages than English or dedicated to certain life choices (think of ecology or veganism)
+   *to* the **bigger diversity of platforms with their own specific identity developed.** Shared access to wide base of hosts and travelers would relieve the burden on platforms to fulfill all needs, and they would not fear of missing out since other needs would be covered by other platforms. One could then imagine platforms in other languages than English or dedicated to certain life choices (think of ecology or veganism)
    - easy deployment of new instance
    - self-hosting and managed-hosting options for communities
 
 1. *from* **users** jumping between multiple accounts, one for each platform
-   *to* **single account and one search to query all platforms and find closest hosts among all of them**
+   *to* **single account and one search to query all platforms and find the closest hosts among all of them**
    - single sign-on (cross platform identity)
    - visibility of existence of users across platforms (aggregated per location, no individual hosts)
    - linked accounts / guest account based on profile from the primary platform to reach out to users of the other platform
@@ -63,10 +77,10 @@ Potentially also:
    - a map with hosts from other federated communities
 
 1. *from* **users** from underrepresented groups (non-english speakers, women, lgbtq, …) hesitating to participate because of fear of unsafe interactions
-   *to* **the community, where everyone feels welcome, can find their place and group where they belong to, feel safe and can fully express themselves. Full diversity of members from all sort of backgrounds and groups equally represented in the community.**
+   *to* **the community, where everyone feels welcome, can find their place and group where they belong to, feel safe and can fully express themselves.** Full diversity of members from all sort of backgrounds and groups equally represented in the community.
 
 1. *from* **devs-maintainers** competing with time to keep up to date with ever changing technologies, tired with maintaining outdated platforms,
-   *to* **new platforms emerging every now and then with fresh ideas, energy and tech stacks. This can be achieved by making it easy for new platforms to start based on already existing ones and evolve them freely.**
+   *to* **new platforms emerging every now and then with fresh ideas, energy and tech stacks.** This can be achieved by making it easy for new platforms to start based on already existing ones and evolve them freely.
 
 1. *from* **platforms** keeping hosts forever despite them being inactive and unresponsive
    *to* **only committed hosts participating in the network on their own rules and preferences.**
@@ -78,6 +92,18 @@ Potentially also:
    > Everyone in the network can see it and someone answers: come over to my home, we’ll be waiting this evening for you.
    
    - the request includes everything needed to determine for who it is relevant: (a) expected location and radius (b) current location, direction and speed (c) …
+
+## Help wanted!
+
+We are a group of developers, frontend and backend software engineers, so if you'd like to help with **social media** for example, you are _more than welcome!_ Please join our chat room to say _hi!_ and ask how you could help.
+
+If you are a **developer**, join our chat room or just pick up an issue and start working on it. Here are contributors guidelines (todo).
+
+We will likely spin up, rebrand and adapt an instance of Trustroots for **bicycle touring community**. If you'd like to help re-build this community in the new place, it's best if you could join Trustroots team as for now and self-organize from there.
+
+Give us **feedback**, vote for **features** or ask **questions** on the board, it's very helpful too!
+
+---
 
 ## Exploring possibilities
 
@@ -106,12 +132,3 @@ Here you can read some more background, find other resources and places where we
 
 * [Open Alternative to WarmShowers](https://www.facebook.com/groups/243374777243989) Facebook group
 
-## Help wanted!
-
-We are a group of developers, frontend and backend software engineers, so if you'd like to help with **social media** for example, you are _more than welcome!_ Please join our chat room to say _hi!_ and ask how you could help.
-
-If you are a **developer**, join our chat room or just pick up an issue and start working on it. Here are contributors guidelines (todo).
-
-We will likely spin up, rebrand and adapt an instance of Trustroots for **bicycle touring community**. If you'd like to help re-build this community in the new place, it's best if you could join Trustroots team as for now and self-organize from there.
-
-Give us **feedback**, vote for **features** or ask **questions** on the board, it's very helpful too!

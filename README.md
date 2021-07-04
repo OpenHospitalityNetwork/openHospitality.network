@@ -10,7 +10,7 @@ We envision a variety of platforms exist, built around specific communities' cha
 
 In other words, we want to unify hospitality exchange communities into one big full-of-variety and everlasting community.
 
-_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill its goals if it was not open, free and transparent for everyone and forever. This means for us [open governance](https://trello.com/c/VTpvnpv0), [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex). 
+_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill its goals if it was not open and transparent for everyone and forever. This means for us [open governance](https://trello.com/c/VTpvnpv0), [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex). 
 
 Come, [help us!](#help-wanted)
 

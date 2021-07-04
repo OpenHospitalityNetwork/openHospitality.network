@@ -1,6 +1,6 @@
 # Federated Hospitality Exchange
 
-_Reclaiming travellers and hosts communities from boards and exchange platforms back to human interactions._
+_Reclaiming reciprocal hospitality communities from boards and exchange platforms back to human interactions._
 
 We’d like to take community-first approach, followed by technology. But it’s also very infrastructure heavy piece, so technically, we’re trying to federate different already existing hospitality exchange platforms to make it easy for new ones to emerge and evolve to keep serving their communities' needs - not the other way around. We'd like new communities to freely form, grow and re-form and for that we need new generation of software, flexible enough to be able to follow them.
 
@@ -10,7 +10,7 @@ We envision a variety of platforms exist, built around specific communities' cha
 
 In other words, we want to unify hospitality exchange communities into one big full-of-variety and everlasting community.
 
-_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill its goals if it was not open, free and transparent for everyone and forever. This means for us open governance, [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex). 
+_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine a platform like ours to fulfill its goals if it was not open, free and transparent for everyone and forever. This means for us [open governance](https://trello.com/c/VTpvnpv0), [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex). 
 
 Come, [help us!](#help-wanted)
 

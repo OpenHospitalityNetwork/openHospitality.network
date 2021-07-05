@@ -1,134 +1,54 @@
-# Federated Hospitality Exchange
+# [Welcome to Hospitality Camp](#)
 
-_We want to reclaim reciprocal hospitality communities from boards and exchange platforms back to human interactions._
+_**We help keep online hospitality exchange open and social.**_
 
-_Saying it differently, we want to unify reciprocal hospitality communities into one big full-of-variety community, everlasting boards and exchange platforms._
-
-**hospitality \[exchange\] platform**: a piece of software which connects travelers with those who want to host them.
-
-We’d like to take community-first approach, followed by technology. But it’s also very infrastructure heavy piece, so technically, we’re trying to federate different already existing hospitality exchange platforms to make it easy for new ones to emerge and evolve to keep serving their communities' needs - not the other way around. We'd like new communities to freely form, grow and re-form and for that we need new generation of software, flexible enough to be able to follow them.
-
-Come, [help us!](#help-wanted)
-
-_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine an endeavor like this to fulfill its goals if it was not open and transparent for everyone and forever. This means for us [open governance](https://trello.com/c/VTpvnpv0), [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex).
+- [Join our camp](#join-our-camp)
+- [What we do](#what-we-do)
+- [Who's involved](#whos-involved)
+- [Help wanted](#help-wanted)
 
 ---
 
-## Table of Contents
-* [Who's involved in this?](#whos-involved-in-this)
-* [Why are we doing this?](#why-are-we-doing-this)
-* [What exactly would change?](#what-exactly-would-change)
-* [Help wanted!](#help-wanted)
+Showing kindness to guests and giving strangers a warm welcome, hospitality has always been part of human nature. Wonderful people who share with others, and exchange life's stories and adventures. The internet age allowed hosts and travellers from all around the world to find each other more easily, and spontaneous communities emerged online. Nowadays many hospitality exchange platforms exist where people can plan their travels.
 
-  
-* [Exploring possibilities](#exploring-possibilities)
-* [Other resources](#other-resources)
+However there is a problem that threatens the open hospitality culture. There's money to be earned from hospitality and commercial incentives have warped the values and ideals of some popular hospitality platforms. A trend of platform monetization exists, that is not in the interest of the communities that embraced these platforms. It is time to make a stand against the companies involved in this development, hence we find ourselves in the opposite camp:
 
-## Who's involved in this? 
+>Our main objective is to avoid this commercial trend, and tread our own path forward. A path that involves people, and travelling together.
 
-In the project are involved contributors to the platforms:
-- [Open Alternative to WarmShowers.org](https://WarmShowers.bike)  - contributors to the community-built WarmShowers Android app, first released in 2012, before any WS board existed (2015), with which the community has grown (50+K installs in [Google Play Store](https://play.google.com/store/apps/details?hl=en&id=fi.bitrite.android.ws)), and whose access was cut off after WS board closed backend code (ca. 2017) and released a new paid app (2020), effectively excluding from the community members who access the platform from mobile devices only and for whom the fee for the new app is unaffordable (i.a. hosts from less developed countries, long-distance bike tourers). The devs and other community members made previously [many attempts](https://gitlab.com/-/snippets/2111860) to inform the board about the situation.
-- [Trustroots.org](https://Trustroots.org)
-- [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org) 
-- [BeWelcome.org](https://BeWelcome.org)
-- [CouchSurfing.org](https://CouchSurfing.org) community members and builders, before it locked its community behind paywall
+## Join our camp
 
-Potentially also:
-- [Couchers.org](https://Couchers.org)
-- [CyclePlanet.org](https://CyclePlanet.org)
+Hospitality camp exists to turn the tide again, to keep online hospitality exchange open and social. We want to unify hospitality exchange communities into one big movement full-of-variety to ensure everlasting community and a vibrant culture. Open and transparent for everyone and forever. We envision a variety of platforms to exist, united in diversity, where each of them is built around their own unique characteristics. You are most welcome to join and participate. [We need your help!](#help-wanted)
 
+## What we do
 
-## Why are we doing this?
+We’d like new communities to freely form, grow and evolve to keep serving their communities’ needs. Our primary focus is to learn from each other, to collaborate intricately and strenghten our common path. Our main goals are:
 
-* We aim to solve the issue of centralized boards ending up with too much power and locking their own communities in a platform the members cannot influence or move away from without:
-  * excluding themselves from the community - right now, although a single user can relatively easily move from one platform to another, they can not do it [travelers] without losing access to the hosts on that platform and [hosts] while remaining discoverable for travelers who haven't moved (yet) - so **the community, as a whole, is trapped**,
-  * losing history - 1. trust, often built on _reputation_ is very important for hospitality exchange. 2. connections and memories are so precious to many of us!
-* We hope to grow network of (active!) hosts reachable from any platform…
-* … and flexibility to choose who, when and where we’d like to host
-* We hope to increase diversity of platforms so that everyone can choose what fits them best
-* We hope to increase security and be more inclusive, and welcome new members from under-represented groups
-* We hope to take off from existing platforms a burden of trying to fulfill needs of all without having a clear identity
-* We hope to reduce the burden on developers maintaining the platforms to keep up-to-date in ever-changing technology landscape
+- To unify people and take safe, diverse and social community interaction to new levels.
+- To decentralize our platforms, ensuring freedom of choice and democratic control.
+- To integrate our services, so that guests and hosts are reachable from any platform.
+- To explore best-practices for open governance, open-source software and open finances.
 
+We have great plans for the future. [Learn more about our roadmap, and find where you fit in](learn-more.md). Come sit at our campfire and share your story!
 
-## What exactly would change?
+## Who's involved
 
-We envision a variety of platforms exist, built around specific communities' characteristics: for the bicycle touring community or for slow-travellers, in English and non-English languages, for women or lgbtq people only, gathering together families or even vegan families only, if they chose to enclose themselves in a community of their own. Some organized around democratic values and others with a strong leadership model. While all the platforms are independent and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
+Currently our camp includes contributors to the following platforms:
 
-Here is what we'd like to change:
+- [WarmShowers.bike](https://warmshowers.bike/): An open alternative to WarmShowers.org, a platform for cyclists.
+- [Trustroots.org](https://www.trustroots.org/): Travellers' community, sharing, hosting and getting people together.
+- [WelcomeToMyGarden.org](https://welcometomygarden.org/): Citizens offering free camping spots in their gardens to slow travellers.
+- [BeWelcome.org](https://bewelcome.org/): Share a place to stay, connect with travellers, meet up and find accommodation on your journey.
+- [CouchSurfing.org](https://couchsurfing.org/): Stay with locals and meet travelers, share authentic travel experiences.
 
-1. *from* **communities** locked in silos platforms with self-selected boards not representing communities values any more
-   *to* **freedom to be on a platform of their choice, with variety of platforms existing, variety of governance, variety of communities to be part of** all participating in wider network of hosts and travelers
-    - easy account migration between instances (nomadic identity)
-    - discoverability of accounts (ex. usernames with platform prefixes)
-    
-1. *from* a few **platforms** without clear identity, competing with each other for users
-   *to* the **bigger diversity of platforms with their own specific identity developed.** Shared access to wide base of hosts and travelers would relieve the burden on platforms to fulfill all needs, and they would not fear of missing out since other needs would be covered by other platforms. One could then imagine platforms in other languages than English or dedicated to certain life choices (think of ecology or veganism)
-   - easy deployment of new instance
-   - self-hosting and managed-hosting options for communities
+Potentially candidates also include:
 
-1. *from* **users** jumping between multiple accounts, one for each platform
-   *to* **single account and one search to query all platforms and find the closest hosts among all of them**
-   - single sign-on (cross platform identity)
-   - visibility of existence of users across platforms (aggregated per location, no individual hosts)
-   - linked accounts / guest account based on profile from the primary platform to reach out to users of the other platform
-   - visibility of users across platforms (protocol what to include: location in 5km radius, username, …)
-   - communication across platforms (aka matrix, ActivityPub)
-   - a map with hosts from other federated communities
+- [Couchers.org](https://couchers.org)
+- [CyclePlanet.org](https://cycleplanet.org)
 
-1. *from* **users** from underrepresented groups (non-english speakers, women, lgbtq, …) hesitating to participate because of fear of unsafe interactions
-   *to* **the community, where everyone feels welcome, can find their place and group where they belong to, feel safe and can fully express themselves.** Full diversity of members from all sort of backgrounds and groups equally represented in the community.
+When can we welcome you into our midst?
 
-1. *from* **devs-maintainers** competing with time to keep up to date with ever changing technologies, tired with maintaining outdated platforms,
-   *to* **new platforms emerging every now and then with fresh ideas, energy and tech stacks.** This can be achieved by making it easy for new platforms to start based on already existing ones and evolve them freely.
+## Help wanted
 
-1. *from* **platforms** keeping hosts forever despite them being inactive and unresponsive
-   *to* **only committed hosts participating in the network on their own rules and preferences.**
+In our cozy camp there are technologists and other people from our communities that are passionate to discover the many opportunities of hospitality exchange still unexplored. Some of us are developers and software engineers that are currently involved in open hospitality projects, while others are advisors and designers offering a helping hand. We are looking for experience and expertise from anywhere, and all of you can help.
 
-1. *from* **users** exchanging direct messages 
-   *to* **indirect hosting requests**
-
-   > I travel and publish: Who can host me? \
-   > Everyone in the network can see it and someone answers: come over to my home, we’ll be waiting this evening for you.
-   
-   - the request includes everything needed to determine for who it is relevant: (a) expected location and radius (b) current location, direction and speed (c) …
-
-## Help wanted!
-
-We are a group of developers, frontend and backend software engineers, so if you'd like to help with **social media** for example, you are _more than welcome!_ Please join our chat room to say _hi!_ and ask how you could help.
-
-If you are a **developer**, join our chat room or just pick up an issue and start working on it. Here are contributors guidelines (todo).
-
-We will likely spin up, rebrand and adapt an instance of Trustroots for **bicycle touring community**. If you'd like to help re-build this community in the new place, it's best if you could join Trustroots team as for now and self-organize from there.
-
-Give us **feedback**, vote for **features** or ask **questions** on the board, it's very helpful too!
-
----
-
-## Exploring possibilities
-
-So there's work to do. In this section we link to documentation related to designing our future Hospitality Exchange platforms.
-
-* [Domain modeling](domain-modeling.md)
-
-## Other resources
-
-Here you can read some more background, find other resources and places where we discuss, share ideas and connect with the world outside our core team:
-
-* Our story is yet to be written down, but [here's a message](https://warmshowers.bike) that we, former WarmShowers Android app developers, display to the users of our community-built app, accompanied by short WS backstory
-
-* [WarmsShowers Uncensored](https://gitlab.com/-/snippets/2111860) tracks censorious actions taken by Warmshowers, as well as other WS related resources.
-  
-* There is also a survey for WarmShowers users with [our values and pitch](https://warmshowers.bike/survey) for a new platform for bicycle touring community.
-  
-* BeVolunteer, an organization behind BeWelcome gives interesting [historical context](https://www.bevolunteer.org/about-bevolunteer/history/) of how hospex landscape was (r)evolving [[a backup copy](http://web.archive.org/web/20190809110251/https://www.bevolunteer.org/about-bevolunteer/history/)]
-
-* [Github issue](https://github.com/FediHospEx/fedihospex.github.io/discussions/9) describing why we want to federate in the first place
-  
-#### Other useful places
-* [SocialHub](https://socialhub.activitypub.rocks/c/fediversity/fediverse-futures/58) #hospitality tag, where we discuss federation using [ActivityPub](https://activitypub.rocks/), W3C standard protocol for decentralized social networks
-  
-* [Lemmy by HumaneTech](https://lemmy.ml/post/66076) brainstorming ideas, lemmy is like reddit but decentralized
-
-* [Open Alternative to WarmShowers](https://www.facebook.com/groups/243374777243989) Facebook group
-
+We invite you to contribute or just to camp with us, to keep yourself informed. Provide your feedback, vote for features, brainstorm and ask questions on our Trello board. Come join us in our chatroom and let's meet. Or just pick an issue from our tracker and begin to work on it. Our contributor guidelines make it easy for you to start.

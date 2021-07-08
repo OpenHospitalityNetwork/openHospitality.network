@@ -1,6 +1,6 @@
 # [Welcome to Hospitality Camp](#)
 
-_**We help keep online hospitality exchange open and social.**_
+_**We help keep online hospitality exchange open and uniquely social.**_
 
 - [Join our camp](#join-our-camp)
 - [What we do](#what-we-do)
@@ -9,11 +9,11 @@ _**We help keep online hospitality exchange open and social.**_
 
 ---
 
-Showing kindness to guests and giving strangers a warm welcome, hospitality has always been part of human nature. Wonderful people who share with others, and exchange life's stories and adventures. The internet age allowed hosts and travellers from all around the world to find each other more easily, and spontaneous communities emerged online. Nowadays many hospitality exchange platforms exist where people can plan their travels.
+Showing kindness to guests and giving strangers a warm welcome, hospitality has always been part of human nature. Wonderful people who share with others, and exchange life's stories and adventures. The internet age allowed hosts and travellers from all around the world to find each other more easily, and spontaneous communities emerged online. Nowadays many hospitality exchange platforms exist which help travelers and hosts find each other.
 
-However there is a problem that threatens the open hospitality culture. There's money to be earned from hospitality and commercial incentives have warped the values and ideals of some popular hospitality platforms. A trend of platform monetization exists, that is not in the interest of the communities that embraced these platforms. It is time to make a stand against the companies involved in this development, hence we find ourselves in the opposite camp:
+However there is a problem that threatens the open hospitality culture. There's money to be earned from hospitality and commercial incentives have warped the values and ideals of some popular hospitality platforms. A trend of platform monetization exists, that is not in the interest of the communities that embraced these platforms. It is time to go our own way and side firmly with the open camp, built on trust and transparency,  where people and the spirit of community will always prevail.
 
->Our main objective is to avoid this commercial trend, and tread our own path forward. A path that involves people, and travelling together.
+> Our main objective is to foster community vibe and values without commercial influence, and tread our own path forward.
 
 ## Join our camp
 
@@ -21,11 +21,11 @@ Hospitality camp exists to turn the tide again, to keep online hospitality excha
 
 ## What we do
 
-We’d like new communities to freely form, grow and evolve to keep serving their communities’ needs. Our primary focus is to learn from each other, to collaborate intricately and strenghten our common path. Our main goals are:
+We’d like new communities to freely form, grow and evolve to keep serving their communities’ needs. As individuals our primary focus is to learn from each other, to collaborate intricately and strenghten our common path. As a team our main goals are:
 
 - To unify people and take safe, diverse and social community interaction to new levels.
-- To decentralize our platforms, ensuring freedom of choice and democratic control.
-- To integrate our services, so that guests and hosts are reachable from any platform.
+- To decentralize our services, ensuring freedom of choice and democratic control.
+- To integrate our platforms, so that guests and hosts can choose to interact more broadly.
 - To explore best-practices for open governance, open-source software and open finances.
 
 We have great plans for the future. [Learn more about our roadmap, and find where you fit in](learn-more.md). Come sit at our campfire and share your story!

@@ -49,6 +49,10 @@ When can we welcome you into our midst?
 
 ## Help wanted
 
-In our cozy camp there are technologists and other people from our communities that are passionate to discover the many opportunities of hospitality exchange still unexplored. Some of us are developers and software engineers that are currently involved in open hospitality projects, while others are advisors and designers offering a helping hand. We are looking for experience and expertise from anywhere, and all of you can help.
+It does not matter if you are technical or not, **everyone is more than welcome** to contribute to our projects. Whether you involve yourself with design and development, documentation or doing outreach on social media, we are very thankful of all the help you can provide.
 
-We invite you to contribute or just to camp with us, to keep yourself informed. Provide your feedback, vote for features, brainstorm and ask questions on our Trello board. Come join us in our chatroom and let's meet. Or just pick an issue from our tracker and begin to work on it. Our contributor guidelines make it easy for you to start.
+Just join our chat room to say hi! and ask where you can jump in. We are friendly and helpful, and will help you find your way. If you are a **developer**, you can also just pick an issue from our trackers and start working on it. Our contributor guidelines make it easy for you to start.
+
+As part of our activities we will likely spin up, rebrand and adapt an instance of Trustroots for **bicycle touring community**. If you’d like to help re-build this community in the new place, it’s best if you could join Trustroots team as for now and self-organize from there.
+
+Give us **feedback**, vote for **features** or ask **questions** on the board, it’s very helpful too!

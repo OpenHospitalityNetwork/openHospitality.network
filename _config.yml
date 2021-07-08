@@ -2,9 +2,9 @@ theme: jekyll-theme-minimal
 
 # https://github.com/pages-themes/minimal
 
-title: Hospitality Camp
+title: Open Hospitality Network
 email: hospexsummit@gmail.com
-description: We strive to federate different hospitality exchange platforms to unify the community and enable greater diversity and long term sustainability of all together.
+description: FediHospEx strives to federate different hospitality exchange platforms to unify diverse communities and ensure long term sustainability and resilience.
 baseurl: ''
 url: https://fedihospex.github.io
 #twitter_username: Your Twitter username (do not include @ symbol).

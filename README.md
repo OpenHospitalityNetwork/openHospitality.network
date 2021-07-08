@@ -1,4 +1,4 @@
-# [Welcome to Hospitality Camp](#)
+# [Welcome to FediHospEx](#)
 
 _**We help keep online hospitality exchange open and uniquely social.**_
 

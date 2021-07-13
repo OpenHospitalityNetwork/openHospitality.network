@@ -1,22 +1,22 @@
-# Federated Hospitality Exchange
+# Open Hospitality Network
 
-_We want to reclaim reciprocal hospitality communities from boards and exchange platforms back to human interactions._
+_We help keep online hospitality exchange open and uniquely social._
 
-_Saying it differently, we want to unify reciprocal hospitality communities into one big full-of-variety community, everlasting boards and exchange platforms._
+**Hospitality exchange platforms** help to connect travellers with those who want to host them. They help to meet like-minded people and build lifelong friendships, often crossing many boundaries. We want them to help to build **resilient communities** everlasting boards of directors and finally, those exchange platforms. 
 
-**hospitality \[exchange\] platform**: a piece of software which connects travelers with those who want to host them.
+We’d like to take community-first approach, followed by technology. Though it’s also very **infrastructure** heavy piece, so technically, we’re trying to federate different already existing hospitality exchange platforms to make it easy for new ones to emerge and evolve to keep serving their communities' needs - not the other way around. We'd like new communities to freely form, grow and re-form and for that we need **new generation of software**, flexible enough to be able to follow them.
 
-We’d like to take community-first approach, followed by technology. But it’s also very infrastructure heavy piece, so technically, we’re trying to federate different already existing hospitality exchange platforms to make it easy for new ones to emerge and evolve to keep serving their communities' needs - not the other way around. We'd like new communities to freely form, grow and re-form and for that we need new generation of software, flexible enough to be able to follow them.
+We envision **a variety of platforms** exist, built around specific communities' characteristics: for the bicycle touring community and for slow-travellers, in English and non-English languages, for women and lgbtq people only, gathering together families or even vegan families only, if they chose to enclose themselves in a community of their own. Some organized around democratic values and others with a strong leadership model. While all the platforms are independent and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
 
-Come, [help us!](#help-wanted)
+Come, [help us](#help-wanted)!
 
-_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine an endeavor like this to fulfill its goals if it was not open and transparent for everyone and forever. This means for us [open governance](https://trello.com/c/VTpvnpv0), [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex).
+_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine an endeavor like this to fulfill its goals if it was not built on trust and transparency, to reflect values which drive people to open their homes and welcome strangers traveling the world by bike, car, foot or train. Open and transparent for everyone and forever. For us, this means i.a. [open governance](https://trello.com/c/VTpvnpv0), [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex).
 
 ---
 
 ## Table of Contents
-* [Who's involved in this?](#whos-involved-in-this)
 * [Why are we doing this?](#why-are-we-doing-this)
+* [Who's involved in this?](#whos-involved-in-this)
 * [What exactly would change?](#what-exactly-would-change)
 * [Help wanted!](#help-wanted)
 
@@ -24,25 +24,11 @@ _Hospitality_ is a universal human phenomenon, practiced long before any softwar
 * [Exploring possibilities](#exploring-possibilities)
 * [Other resources](#other-resources)
 
-## Who's involved in this? 
-
-In the project are involved contributors to the platforms:
-- [Open Alternative to WarmShowers.org](https://WarmShowers.bike)  - contributors to the community-built WarmShowers Android app, first released in 2012, before any WS board existed (2015), with which the community has grown (50+K installs in [Google Play Store](https://play.google.com/store/apps/details?hl=en&id=fi.bitrite.android.ws)), and whose access was cut off after WS board closed backend code (ca. 2017) and released a new paid app (2020), effectively excluding from the community members who access the platform from mobile devices only and for whom the fee for the new app is unaffordable (i.a. hosts from less developed countries, long-distance bike tourers). The devs and other community members made previously [many attempts](https://gitlab.com/-/snippets/2111860) to inform the board about the situation.
-- [Trustroots.org](https://Trustroots.org)
-- [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org) 
-- [BeWelcome.org](https://BeWelcome.org)
-- [CouchSurfing.org](https://CouchSurfing.org) community members and builders, before it locked its community behind paywall
-
-Potentially also:
-- [Couchers.org](https://Couchers.org)
-- [CyclePlanet.org](https://CyclePlanet.org)
-
-
 ## Why are we doing this?
 
 * We aim to solve the issue of centralized boards ending up with too much power and locking their own communities in a platform the members cannot influence or move away from without:
   * excluding themselves from the community - right now, although a single user can relatively easily move from one platform to another, they can not do it [travelers] without losing access to the hosts on that platform and [hosts] while remaining discoverable for travelers who haven't moved (yet) - so **the community, as a whole, is trapped**,
-  * losing history - 1. trust, often built on _reputation_ is very important for hospitality exchange. 2. connections and memories are so precious to many of us!
+  * losing history - 1. trust, often built on _reputation_ is very important for hospitality exchange. 2. connections and memories are invaluable!
 * We hope to grow network of (active!) hosts reachable from any platform…
 * … and flexibility to choose who, when and where we’d like to host
 * We hope to increase diversity of platforms so that everyone can choose what fits them best
@@ -50,10 +36,22 @@ Potentially also:
 * We hope to take off from existing platforms a burden of trying to fulfill needs of all without having a clear identity
 * We hope to reduce the burden on developers maintaining the platforms to keep up-to-date in ever-changing technology landscape
 
+## Who's involved in this?
+
+In the project are involved contributors to the platforms:
+- [Trustroots.org](https://Trustroots.org)
+- [Open Alternative to WarmShowers.org](https://WarmShowers.bike)  - contributors to the community-built WarmShowers Android app, first released in 2012, before any WS board existed (2015), with which the community [has grown](https://play.google.com/store/apps/details?hl=en&id=fi.bitrite.android.ws), and whose access was cut off after WS board closed backend code (ca. 2017) and released a new paid app (2020), effectively excluding from the community members who access the platform from mobile devices only and for whom the fee for the new app is unaffordable (i.a. long-distance bike tourers and hosts from countries with less developed infrastructure). The devs and other community members made previously [many attempts](https://gitlab.com/-/snippets/2111860) to inform the board about the situation.
+- [BeWelcome.org](https://BeWelcome.org)
+- [CouchSurfing.org](https://CouchSurfing.org) community builders and members, before their community was locked behind paywall
+
+Potentially also:
+- [Couchers.org](https://Couchers.org)
+- [CyclePlanet.org](https://CyclePlanet.org)
+- [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org)
+- [Host a Sister](https://www.facebook.com/groups/hostasister/)
+- [Heberge Un Cyclo Voyageur](https://www.facebook.com/groups/555958764898796/)
 
 ## What exactly would change?
-
-We envision a variety of platforms exist, built around specific communities' characteristics: for the bicycle touring community or for slow-travellers, in English and non-English languages, for women or lgbtq people only, gathering together families or even vegan families only, if they chose to enclose themselves in a community of their own. Some organized around democratic values and others with a strong leadership model. While all the platforms are independent and individual, they share common goal to connect travelers and hosts, and communicate with each other to better serve their communities.
 
 Here is what we'd like to change:
 

@@ -1,6 +1,6 @@
 # What exactly would change?
 
-Here is what we'd like to change. Check also [github issue](https://github.com/FediHospEx/fedihospex.github.io/issues/33) for more details.
+Here is what we'd like to change. Check also [github issue]({{site.github.repository_url}}/issues/33) for more details.
 
 1. *from* **communities** locked in silos platforms with self-selected boards not representing communities values any more
    *to* **freedom to be on a platform of their choice, with variety of platforms existing, variety of governance, variety of communities to be part of** all participating in wider network of hosts and travelers

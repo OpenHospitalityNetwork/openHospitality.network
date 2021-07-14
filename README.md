@@ -10,7 +10,7 @@ We envision _a variety of platforms_ exist, built around specific communities' c
 
 Come, [help us](#help-wanted)!
 
-_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine an endeavor like this to fulfill its goals if it was not built on trust and transparency, to reflect values which drive people to open their homes and welcome strangers traveling the world by bike, car, foot or train. _Open and transparent for everyone and forever_. For us, this means i.a. [open governance](https://trello.com/c/VTpvnpv0), [open source software](https://github.com/FediHospEx/fedihospex.github.io) and [open finances](https://opencollective.com/fedihospex).
+_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine an endeavor like this to fulfill its goals if it was not built on trust and transparency, to reflect values which drive people to open their homes and welcome strangers traveling the world by bike, car, foot or train. _Open and transparent for everyone and forever_. For us, this means i.a. [open governance](https://trello.com/c/VTpvnpv0), [open source software]({{site.github.owner_url}}) and [open finances](https://opencollective.com/ohn).
 
 ---
 
@@ -20,8 +20,8 @@ _Hospitality_ is a universal human phenomenon, practiced long before any softwar
 * [Help wanted!](#help-wanted)
 
 #### Check also:
-* [Other resources](resources.md) for more background, other places where we discuss and connect with the world outside our core team. 
-* [Domain modeling](domain-modeling.md) for documentation related to designing our future platforms.
+* [Other resources](resources.md) for more background
+* [Domain modeling](domain-modeling.md) for documentation
 
 ---
 ## Why are we doing this?

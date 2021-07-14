@@ -10,7 +10,7 @@ Here you can read some more background, find other resources and places where we
 
 * BeVolunteer, an organization behind BeWelcome gives interesting [historical context](https://www.bevolunteer.org/about-bevolunteer/history/) of how hospex landscape was (r)evolving [[a backup copy](http://web.archive.org/web/20190809110251/https://www.bevolunteer.org/about-bevolunteer/history/)]
 
-* [Github issue](https://github.com/FediHospEx/fedihospex.github.io/discussions/9) describing why we want to federate in the first place
+* [Github issue]({{site.github.repository_url}}/discussions/9) describing why we want to federate in the first place
 
 #### Other useful places
 * [SocialHub](https://socialhub.activitypub.rocks/c/fediversity/fediverse-futures/58) #hospitality tag, where we discuss federation using [ActivityPub](https://activitypub.rocks/), W3C standard protocol for decentralized social networks

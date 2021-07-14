@@ -25,7 +25,7 @@ More info:
 
 In this section we will look at each of the participating platforms in the Federated Hospitality Exchange project, and provide a description of their domain model as it currently exists. We will then refine this and elaborate further until we hopefully find some unified models that are the building blocks for future federated platform releases.
 
-**Note**: Diagrams are created by [diagrams.net](https://app.diagrams.net/) and design files (XML) are available in the [`/diagrams`](https://github.com/FediHospEx/fedihospex.github.io/tree/main/diagrams) folder on Github.
+**Note**: Diagrams are created by [diagrams.net](https://app.diagrams.net/) and design files (XML) are available in the [`/diagrams`]({{site.github.repository_url}}/tree/main/diagrams) folder on Github.
 
 ### WarmShowers domain
 

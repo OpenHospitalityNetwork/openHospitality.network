@@ -53,16 +53,16 @@ Potentially also:
 - [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org)
 - [Host a Sister](https://www.facebook.com/groups/hostasister/)
 - [Heberge Un Cyclo Voyageur](https://www.facebook.com/groups/555958764898796/)
-
+- [and many, many others](https://wiki.trustroots.org/en/List_of_hospitality_exchange_networks)
 ---
 ## Help wanted!
 
-We are a group of developers, frontend and backend software engineers, so if you'd like to help with **social media** for example, you are _more than welcome!_ Please join our chat room to say _hi!_ and ask how you could help.
+We are a group of developers, frontend and backend software engineers, so if you'd like to help with **social media** for example, you are _more than welcome!_ Please [join our chat room](https://matrix.to/#/#ohn:matrix.org) to say _hi!_ and ask how you could help.
 
-If you are a **developer**, join our chat room or just pick up an issue and start working on it. Here are contributors guidelines (todo).
+If you are a **developer**, [join our chat room](https://matrix.to/#/#ohn:matrix.org) or just pick up an issue and start working on it. Here are contributors guidelines (todo).
 
-We will likely spin up, rebrand and adapt an instance of Trustroots for **bicycle touring community**. If you'd like to help re-build this community in the new place, it's best if you could join Trustroots team as for now and self-organize from there.
+We will likely spin up, rebrand and adapt an instance of Trustroots for **bicycle touring community**. If you'd like to help re-build this community in the new place, it's best if you could [join Trustroots team](https://team.trustroots.org/Volunteering.html) as for now and self-organize from there.
 
-Give us **feedback**, vote for **features** or ask **questions** on the board, it's very helpful too!
+Give us **feedback**, vote for **features** or ask **questions** on [the board](https://trello.com/b/snYAVXym), it's very helpful too!
 
 ---

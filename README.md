@@ -60,7 +60,7 @@ Potentially also:
 
 We are a group of developers, frontend and backend software engineers, so if you'd like to help with **social media** for example, you are _more than welcome!_ Please [join our chat room](https://matrix.to/#/#ohn:matrix.org) to say _hi!_ and ask how you could help.
 
-If you are a **developer**, [join our chat room](https://matrix.to/#/#ohn:matrix.org) or just pick up an issue and start working on it. Here are contributors guidelines (todo).
+If you are a **developer**, [join our chat room](https://matrix.to/#/#ohn:matrix.org) or just pick up an issue and start working on it. This project uses [C4(Collective Code Construction Contract)](https://rfc.zeromq.org/spec:42/C4/) process for contributions.
 
 We will likely spin up, rebrand and adapt an instance of Trustroots for **bicycle touring community**. If you'd like to help re-build this community in the new place, it's best if you could [join Trustroots team](https://team.trustroots.org/Volunteering.html) as for now and self-organize from there.
 

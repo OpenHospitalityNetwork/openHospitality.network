@@ -1,8 +1,8 @@
 # Open Hospitality Network
 
-_We help keep online hospitality exchange open and uniquely social._
+_Empowering self-organized hospitality exchange communities with the software that supports them to thrive._
 
-_Hospitality exchange platforms_ help to connect travellers with those who want to host them. They help to meet like-minded people and build lifelong friendships, often crossing many boundaries. We want them to help to build **resilient communities** everlasting boards of directors and finally, those exchange platforms. 
+_Hospitality exchange platforms_ help to connect travellers with those who want to host them. They help to meet like-minded people and build lifelong friendships, crossing many boundaries. We want them to help to build **resilient communities** everlasting boards of directors and finally, those exchange platforms. 
 
 We’d like to take community-first approach, followed by technology. Though it’s also very **infrastructure** heavy piece, so technically, we’re trying to federate different already existing hospitality exchange platforms to make it easy for new ones to emerge and evolve to keep serving their communities' needs - not the other way around. We'd like new communities to freely form, grow and re-form and for that we need _new generation of software_, flexible enough to be able to follow them.
 
@@ -10,7 +10,7 @@ We envision _a variety of platforms_ exist, built around specific communities' c
 
 Come, [help us](#help-wanted)!
 
-_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine an endeavor like this to fulfill its goals if it was not built on trust and transparency, to reflect values which drive people to open their homes and welcome strangers traveling the world by bike, car, foot or train. _Open and transparent for everyone and forever_. For us, this means i.a. [open governance](https://trello.com/c/VTpvnpv0), [open source software]({{site.github.owner_url}}) and [open finances](https://opencollective.com/ohn).
+_Hospitality_ is a universal human phenomenon, practiced long before any software infrastructure existed. We can't imagine an endeavor like this to fulfill its goals if it was not built on trust and transparency, to reflect values which drive people to open doors to their homes and welcome strangers traveling the world. _Open and transparent for everyone and forever_. For us, this means i.a. [open governance](https://trello.com/c/VTpvnpv0), [open source software]({{site.github.owner_url}}) and [open finances](https://opencollective.com/ohn).
 
 ---
 
@@ -21,7 +21,7 @@ _Hospitality_ is a universal human phenomenon, practiced long before any softwar
 
 #### Check also:
 * [Other resources](resources.md) for more background
-* [Domain modeling](domain-modeling.md) for documentation
+* [Domain modeling](domain-modeling.md) for some documentation
 
 ---
 ## Why are we doing this?

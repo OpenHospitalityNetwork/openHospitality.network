@@ -6,7 +6,8 @@ theme: jekyll-theme-minimal
 
 title: Open Hospitality Network
 email: hospexsummit@gmail.com
-description: We try to federate different hospitality exchange platforms to unify the community while enabling greater diversity and long term sustainability of all together.
+description: We try to federate hospitality exchange.
+logo: assets/img/emblem.png
 baseurl: ''
 url: https://OpenHospitalityNetwork.github.io
 #twitter_username: Your Twitter username (do not include @ symbol).
@@ -19,3 +20,4 @@ kramdown:
 
 plugins:
     - jekyll-seo-tag
+    - jekyll-github-metadata

@@ -12,7 +12,6 @@ baseurl: ''
 url: https://OpenHospitalityNetwork.github.io
 #twitter_username: Your Twitter username (do not include @ symbol).
 github_username: OpenHospitalityNetwork
-google_analytics: UA-199347194-1
 
 markdown: kramdown
 kramdown:

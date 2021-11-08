@@ -1,6 +1,6 @@
 # Open Hospitality Network
 
-_Empowering self-organized hospitality exchange communities with the software that supports them to thrive._
+_We are connecting different hospitality exchange platforms to unify the community while enabling greater diversity and long term sustainability of all together._
 
 _Hospitality exchange platforms_ help to connect travellers with those who want to host them. They help to meet like-minded people and build lifelong friendships, crossing many boundaries. We want them to help to build **resilient communities** everlasting boards of directors and finally, those exchange platforms. 
 

@@ -46,7 +46,7 @@ In the project are involved contributors to the platforms:
 - [Open Alternative to WarmShowers.org](https://WarmShowers.bike)  - contributors to the community-built WarmShowers Android app, first released in 2012, before any WS board existed (2015), with which the community [has grown](https://play.google.com/store/apps/details?hl=en&id=fi.bitrite.android.ws), and whose access was cut off after WS board closed backend code (ca. 2017) and released a new paid app (2020), effectively excluding from the community members who access the platform from mobile devices only and for whom the fee for the new app is unaffordable (i.a. long-distance bike tourers and hosts from countries with less developed infrastructure). The devs and other community members made previously [many attempts](https://gitlab.com/-/snippets/2111860) to inform the board about the situation.
 - [BeWelcome.org](https://BeWelcome.org)
 - [CouchSurfing.org](https://CouchSurfing.org) community builders and members, before their community was locked behind paywall
-- www.DirtyRoad.org
+- [DirtyRoad.org](https://www.DirtyRoad.org)
 
 Potentially also:
 - [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org)

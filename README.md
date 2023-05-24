@@ -28,7 +28,7 @@ _Hospitality_ is a universal human phenomenon, practiced long before any softwar
 
 * We aim to solve the issue of centralized boards ending up with too much power and locking their own communities in a platform the members cannot influence or move away from without:
   * excluding themselves from the community - right now, although a single user can relatively easily move from one platform to another, they can not do it [travelers] without losing access to the hosts on that platform and [hosts] while remaining discoverable for travelers who haven't moved (yet) - so **the community, as a whole, is trapped**,
-  * losing history - 1. trust, often built on _reputation_ is very important for hospitality exchange. 2. connections and memories are invaluable!
+  * loosing history - 1. trust, often relying on _reputation_ built over many _experiances_ of interactions with a person, is crucial for participation in reciprocal hospitality exchange. 2. connections and memories are invaluable!
 * We hope to grow network of (active!) hosts reachable from any platform…
 * … and flexibility to choose who, when and where we’d like to host
 * We hope to increase diversity of platforms so that everyone can choose what fits them best
@@ -46,9 +46,9 @@ In the project are involved contributors to the platforms:
 - [Open Alternative to WarmShowers.org](https://WarmShowers.bike)  - contributors to the community-built WarmShowers Android app, first released in 2012, before any WS board existed (2015), with which the community [has grown](https://play.google.com/store/apps/details?hl=en&id=fi.bitrite.android.ws), and whose access was cut off after WS board closed backend code (ca. 2017) and released a new paid app (2020), effectively excluding from the community members who access the platform from mobile devices only and for whom the fee for the new app is unaffordable (i.a. long-distance bike tourers and hosts from countries with less developed infrastructure). The devs and other community members made previously [many attempts](https://gitlab.com/-/snippets/2111860) to inform the board about the situation.
 - [BeWelcome.org](https://BeWelcome.org)
 - [CouchSurfing.org](https://CouchSurfing.org) community builders and members, before their community was locked behind paywall
+- [DirtyRoad.org](https://www.DirtyRoad.org)
 
 Potentially also:
-- [CyclePlanet.org](https://CyclePlanet.org)
 - [WelcomeToMyGarden.org](https://WelcomeToMyGarden.org)
 - [Host a Sister](https://www.facebook.com/groups/hostasister/)
 - [Heberge Un Cyclo Voyageur](https://www.facebook.com/groups/555958764898796/)
@@ -59,7 +59,7 @@ Potentially also:
 
 We are a group of developers, frontend and backend software engineers, so if you'd like to help with **social media** for example, you are _more than welcome!_ Please [join our chat room](https://matrix.to/#/#ohn:matrix.org) to say _hi!_ and ask how you could help.
 
-If you are a **developer**, [join our chat room](https://matrix.to/#/#ohn:matrix.org) or just pick up an issue and start working on it. This project uses [C4(Collective Code Construction Contract)](https://rfc.zeromq.org/spec:42/C4/) process for contributions.
+If you are a **developer**, [join our chat room](https://matrix.to/#/#ohn:matrix.org) or just pick up an issue and start working on it. This project uses [C4 (Collective Code Construction Contract)](https://rfc.zeromq.org/spec:42/C4/) process for contributions.
 
 We will likely spin up, rebrand and adapt an instance of Trustroots for **bicycle touring community**. If you'd like to help re-build this community in the new place, it's best if you could [join Trustroots team](https://team.trustroots.org/Volunteering.html) as for now and self-organize from there.
 

@@ -42,8 +42,10 @@ _Hospitality_ is a universal human phenomenon, practiced long before any softwar
 ## Who's involved?
 
 In the project are involved contributors to the platforms:
+- [WarmShowers.org](https://WarmShowers.org) former contributors to [the community-built Android app](https://WarmShowers.bike)\
+   For years (since 2012) it was an official WS app and the community [has grown](https://play.google.com/store/apps/details?hl=en&id=fi.bitrite.android.ws) with it. The new board (first formed in 2015) closed backend code (ca. 2017), released a new paid app (2020) and cut off access for the old app. The change effectively excluded from the community members who accessed the platform from mobile devices only and those for whom the fee for the new app was unaffordable (i.a. long-distance bike tourers and hosts from countries with less developed infrastructure). Other members and the devs who objected the change [were censored or their accounts were deleted](https://gitlab.com/-/snippets/2111860).
+- [sleepy.bike](https://sleepy.bike) a new decentralised app for bicycle touring travellers and those who want to host them, created as part of OHN project
 - [Trustroots.org](https://Trustroots.org) present and former volunteers
-- [Open Alternative to WarmShowers.org](https://WarmShowers.bike)  - contributors to the community-built WarmShowers Android app, first released in 2012, before any WS board existed (2015), with which the community [has grown](https://play.google.com/store/apps/details?hl=en&id=fi.bitrite.android.ws), and whose access was cut off after WS board closed backend code (ca. 2017) and released a new paid app (2020), effectively excluding from the community members who access the platform from mobile devices only and for whom the fee for the new app is unaffordable (i.a. long-distance bike tourers and hosts from countries with less developed infrastructure). The devs and other community members made previously [many attempts](https://gitlab.com/-/snippets/2111860) to inform the board about the situation.
 - [BeWelcome.org](https://BeWelcome.org)
 - [CouchSurfing.org](https://CouchSurfing.org) community builders and members, before their community was locked behind paywall
 - [DirtyRoad.org](https://www.DirtyRoad.org)
@@ -61,7 +63,7 @@ We are a group of developers, frontend and backend software engineers, so if you
 
 If you are a **developer**, [join our chat room](https://matrix.to/#/#ohn:matrix.org) or just pick up an issue and start working on it. This project uses [C4 (Collective Code Construction Contract)](https://rfc.zeromq.org/spec:42/C4/) process for contributions.
 
-We will likely spin up, rebrand and adapt an instance of Trustroots for **bicycle touring community**. If you'd like to help re-build this community in the new place, it's best if you could [join Trustroots team](https://team.trustroots.org/Volunteering.html) as for now and self-organize from there.
+Right now, we are creating a new space for **bicycle touring community** at [sleepy.bike](https://sleepy.bike). Please register to re-build this community in the new place! From there, we'll work to extract a protocol/library that can be reused by other hospitality exchange communities to connect in the greater Open Hospitality Network.
 
 Give us **feedback**, vote for **features** or ask **questions** on [the board](https://trello.com/b/snYAVXym), it's very helpful too!
 

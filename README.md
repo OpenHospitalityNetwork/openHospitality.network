@@ -42,9 +42,9 @@ _Hospitality_ is a universal human phenomenon, practiced long before any softwar
 ## Who's involved?
 
 In the project are involved contributors to the platforms:
-- [WarmShowers.org](https://WarmShowers.org) former contributors to [the community-built Android app](https://WarmShowers.bike)\
-   For years (since 2012) it was an official WS app and the community [has grown](https://play.google.com/store/apps/details?hl=en&id=fi.bitrite.android.ws) with it. The new board (first formed in 2015) closed backend code (ca. 2017), released a new paid app (2020) and cut off access for the old app. The change effectively excluded from the community members who accessed the platform from mobile devices only and those for whom the fee for the new app was unaffordable (i.a. long-distance bike tourers and hosts from countries with less developed infrastructure). Other members and the devs who objected the change [were censored or their accounts were deleted](https://gitlab.com/-/snippets/2111860).
-- [sleepy.bike](https://sleepy.bike) a new decentralised app for bicycle touring travellers and those who want to host them, created as part of OHN project
+- [WarmShowers.org](https://WarmShowers.org): Former contributors to [the community-built Android app](https://WarmShowers.bike).
+  For years (since 2012), it was an official WS app, and the community [has grown](https://play.google.com/store/apps/details?hl=en&id=fi.bitrite.android.ws) with it. The new board (first formed in 2015) closed the backend code (circa 2017), released a new paid app (2020), and cut off access for the old app. This change effectively excluded members who accessed the platform exclusively from mobile devices and those for whom the fee for the new app was unaffordable (including long-distance bike tourers and hosts from countries with less developed infrastructure). Other members and the developers who objected to the change [were censored or had their accounts deleted](https://gitlab.com/-/snippets/2111860).
+- [sleepy.bike](https://sleepy.bike): A new decentralised app for bicycle touring travellers and those who want to host them, created as part of the OHN project.
 - [Trustroots.org](https://Trustroots.org) present and former volunteers
 - [BeWelcome.org](https://BeWelcome.org)
 - [CouchSurfing.org](https://CouchSurfing.org) community builders and members, before their community was locked behind paywall
